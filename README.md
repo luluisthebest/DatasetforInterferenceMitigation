@@ -4,4 +4,4 @@ It's a data set for interference mitigation in automotive radar, composing of si
 
 There're 6 sequences in total and each .npy file is RD maps with interference signal.
 
-Please download the dataset from https://pan.baidu.com/s/17wDppI9g0mFXxahS7zpGIg?pwd=4vds (code: 4vds), and the password is skfr. Download Baidu Netdisk APP first.
+Please download the dataset from https://pan.baidu.com/s/1oYf90YKyZ85WvDgZ2Gryvg?pwd=4anr (code: 4anr), and the password is skfr. Download Baidu Netdisk APP first.
